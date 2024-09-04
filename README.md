@@ -1,6 +1,6 @@
 - 👋 Olá, Me chamo @EmilyMedeiross e sou Téc. em formação do curso de Informática para Internet no IFRN
 - 👀 Tenho interesse em Python (Linguagem foco do meu curso)
-- 🌱 Atualmente estou aprendendo Python, Java Script, HTML, CSS, SQL(em breve)..
+- 🌱 Atualmente estou aprendendo Python, Java Script, HTML, CSS, SQL..
 - 💞️ Procuro colaborar com estudandes da tecnologia, assim como eu..
 - 📫 Como entrar em contato comigo: E-Mail/Instagram (Disponível em meu perfil)
 
